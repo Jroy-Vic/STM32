@@ -1,3 +1,0 @@
-../Core/Src/keypad.c:6:6:keypad_Setup	1
-../Core/Src/keypad.c:31:6:keypad_Reset	1
-../Core/Src/keypad.c:37:8:keypad_Read	13
