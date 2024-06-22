@@ -1,0 +1,2 @@
+../Core/Src/laser.c:14:6:LASER_init	1
+../Core/Src/laser.c:33:6:LASER_activate	3

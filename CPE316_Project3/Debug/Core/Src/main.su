@@ -1,0 +1,7 @@
+../Core/Src/main.c:29:5:main	8	static
+../Core/Src/main.c:72:6:reset_terminal	16	static
+../Core/Src/main.c:88:9:isDigit	16	static
+../Core/Src/main.c:98:9:input_convert	16	static
+../Core/Src/main.c:139:6:input_handler	8	static
+../Core/Src/main.c:188:6:SystemClock_Config	96	static
+../Core/Src/main.c:236:6:Error_Handler	4	static,ignoring_inline_asm

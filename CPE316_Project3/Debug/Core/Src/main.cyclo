@@ -1,0 +1,7 @@
+../Core/Src/main.c:29:5:main	2
+../Core/Src/main.c:72:6:reset_terminal	2
+../Core/Src/main.c:88:9:isDigit	3
+../Core/Src/main.c:98:9:input_convert	15
+../Core/Src/main.c:139:6:input_handler	5
+../Core/Src/main.c:188:6:SystemClock_Config	4
+../Core/Src/main.c:236:6:Error_Handler	1

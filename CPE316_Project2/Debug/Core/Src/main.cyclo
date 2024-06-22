@@ -1,0 +1,8 @@
+../Core/Src/main.c:61:5:main	1
+../Core/Src/main.c:229:6:ConfigureTimer	1
+../Core/Src/main.c:249:7:freq_to_string	3
+../Core/Src/main.c:263:6:ConfigureGPIO	1
+../Core/Src/main.c:279:6:ConfigureInterrupts	1
+../Core/Src/main.c:289:6:SystemClock_Config	4
+../Core/Src/main.c:357:13:MX_GPIO_Init	1
+../Core/Src/main.c:372:6:Error_Handler	1

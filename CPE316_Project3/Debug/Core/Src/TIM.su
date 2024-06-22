@@ -1,0 +1,6 @@
+../Core/Src/TIM.c:19:6:TIM_init	16	static,ignoring_inline_asm
+../Core/Src/TIM.c:47:6:TIM_reset	4	static
+../Core/Src/TIM.c:60:6:TIM_setCCR	16	static
+../Core/Src/TIM.c:71:6:TIM_disable	4	static
+../Core/Src/TIM.c:76:6:TIM_enable	8	static
+../Core/Src/TIM.c:83:6:TIM2_IRQHandler	4	static

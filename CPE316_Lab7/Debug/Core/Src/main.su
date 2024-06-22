@@ -1,0 +1,5 @@
+../Core/Src/main.c:62:5:main	424	static
+../Core/Src/main.c:200:9:Value_Checker	24	static
+../Core/Src/main.c:215:7:convInt	24	static
+../Core/Src/main.c:263:6:SystemClock_Config	96	static
+../Core/Src/main.c:311:6:Error_Handler	4	static,ignoring_inline_asm

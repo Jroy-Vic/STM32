@@ -1,0 +1,5 @@
+../Core/Src/UART.c:14:6:UART_init	4	static,ignoring_inline_asm
+../Core/Src/UART.c:75:6:UART_print	16	static
+../Core/Src/UART.c:89:6:UART_ESC_Code	16	static
+../Core/Src/UART.c:103:6:UART_delay	24	static
+../Core/Src/UART.c:109:6:USART2_IRQHandler	16	static

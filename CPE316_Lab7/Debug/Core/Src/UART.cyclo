@@ -1,0 +1,5 @@
+../Core/Src/UART.c:14:6:UART_init	1
+../Core/Src/UART.c:75:6:UART_print	3
+../Core/Src/UART.c:89:6:UART_ESC_Code	2
+../Core/Src/UART.c:103:6:UART_delay	2
+../Core/Src/UART.c:109:6:USART2_IRQHandler	6

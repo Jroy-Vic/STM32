@@ -1,0 +1,6 @@
+../Core/Src/EEPROM.c:15:6:EEPROM_init	1
+../Core/Src/EEPROM.c:52:6:EEPROM_bus_config	5
+../Core/Src/EEPROM.c:80:6:EEPROM_write_memaddr	5
+../Core/Src/EEPROM.c:111:8:EEPROM_read	2
+../Core/Src/EEPROM.c:135:6:EEPROM_write	7
+../Core/Src/EEPROM.c:173:6:EEPROM_delay	2

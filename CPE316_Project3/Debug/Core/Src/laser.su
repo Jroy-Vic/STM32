@@ -1,0 +1,2 @@
+../Core/Src/laser.c:14:6:LASER_init	4	static
+../Core/Src/laser.c:33:6:LASER_activate	4	static
